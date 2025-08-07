@@ -53,7 +53,7 @@ This methodology provides a robust and flexible solution, enabling partial route
 
 ### Frontend
 - **React**: For building responsive and interactive UI.
-- **Mapbox API**: Utilized for map rendering, geolocation, navigation, and route visualization.
+- **MapLibre API**: Utilized for map rendering, geolocation, navigation, and route visualization.
   
 ### Backend
 - **Node.js & Express**: Efficient and scalable server-side application development.
@@ -67,7 +67,7 @@ This methodology provides a robust and flexible solution, enabling partial route
 - **JWT**: Secure session management for user authentication.
 - **Mongoose**: ODM library for MongoDB to manage database interactions smoothly.
 - **Axios**: For handling API requests in the frontend.
-- **Mapbox GL**: Enables high-quality map rendering and customization.
+- **MapLibre GL**: Enables high-quality map rendering and customization.
 
 ---
 
@@ -107,13 +107,13 @@ This methodology provides a robust and flexible solution, enabling partial route
    AUTH_TOKEN = bcd************5876efc1b56
    PHONE_NUM = +1******249
     
-   MAPBOX_ACCESS_TOCKEN=pk.eyJ1Ij*****************n0.UD4_b876WDvl1AP8Sium5g
+   MAPLIBRE_ACCESS_TOCKEN=pk.eyJ1Ij*****************n0.UD4_b876WDvl1AP8Sium5g
    NODE_ENV=development
    ```
    **frontend `.env`**:
    ```env
    VITE_GEO_API_KEY=9a************3aef5
-   VITE_MAPBOX_ACCESS_TOKEN=pk.eyJ1*********************d3NrMnk1ZDEzIn0.UD4_b876WDvl1AP8Sium5g
+   VITE_MAPLIBRE_ACCESS_TOKEN=pk.eyJ1*********************d3NrMnk1ZDEzIn0.UD4_b876WDvl1AP8Sium5g
    ```
 6. **Run the Application**:
    * **Backend**:
