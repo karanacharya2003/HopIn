@@ -82,7 +82,7 @@ This methodology provides a robust and flexible solution, enabling partial route
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/AnantBansal02/Ride-Sharing-Platform.git
+   git clone "thisrepo.git"
    cd Ride-Sharing-Platform
    ```
 2. **Install Backend Dependencies**:
@@ -99,7 +99,7 @@ This methodology provides a robust and flexible solution, enabling partial route
    **root `.env`**:
    ```env
    PORT=8000
-   DATABASE_URL=mongodb+srv://anant:**********@cluster0.rv37j5m.mongodb.net/
+   DATABASE_URL=mongodb+srv://karan:**********@cluster0.rv37j5m.mongodb.net/
    JWT_SECRET=pLhx2g*************5Ri+Mq2hSA/rZl6ZY=
    MAIL=vir****@gmail.com
    MAIL_PASS=i********jsb 

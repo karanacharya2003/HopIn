@@ -31,3 +31,5 @@ app.listen(PORT, async()=>{
     connectDB();
     console.log(`server is running on PORT : ${PORT}`);
 })
+
+// node server.js
